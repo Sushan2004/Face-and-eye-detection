@@ -1,3 +1,10 @@
 .venv/
 __pycache__/
 .DS_Store
+models/
+captures/
+*.part
+work/
+spell_capture_*.png
+faces.json
+faces.tmp
